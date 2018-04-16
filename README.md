@@ -16,6 +16,8 @@ Users will be able to see and click on bubbles that appear on the screen, commen
 
 This app will consist of a single page containing the visualization as well as a footer linking back to my github and a brief About section. The legend, as mentioned, will be toward the left.
 
+![wireframe](https://i.imgur.com/Tzeo58y.png)
+
 ## Architecture and Technologies 
 
 This project will be implemented with the following technologies: 
@@ -41,6 +43,7 @@ This project will be implemented with the following technologies:
   
 ### Day Two 
   -Garner relevant data objects and practice organizing it on the canvas
+  -Add search, which will highlight a specific bubble 
   
 ### Day Three 
   -Build out graphical representations of investments 
